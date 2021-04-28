@@ -12,7 +12,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>we are panimate</p>
+        <p>we are panimate, 1 2 3</p>
         <p>
           (we are paminate, This is a sample website - you’ll be building a site
           like this in{" "}
