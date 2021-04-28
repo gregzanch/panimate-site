@@ -4,10 +4,11 @@ import Layout from "../components/layout";
 
 export default function Home() {
   return (
-    <Layout home>
+    <Layout>
       <Head>
         <title>Panimate</title>
       </Head>
+      <img src="/people.svg" alt="" />
     </Layout>
   );
 }
